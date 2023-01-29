@@ -1,12 +1,12 @@
 Hello, and welcome to the organizational page for the CS1 Python Bakery curriculum! The Bakery is an evolution of the original ideas we presented in the [Python Sneks project](https://acbart.github.io/python-sneks/). Our goal is to surpass our predecessor and make a truly instructor-friendly Python CS1 course that can be quickly deployed while still effectively teaching students.
 
 Our resources include:
-* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template (LINK)
-* A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (LINK)
+* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template ([public version of course](https://canvas.instructure.com/enroll/JGNNMH)).
+* A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff
 * [8 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including transcribed videos, interactive code examples, self-checking quizzes, and autograded programming problems
-* 10 weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans (LINK)
+* 10 weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans ([Google Drive link](https://drive.google.com/drive/u/1/folders/0ALfjp1_QSZwfUk9PVA))
 * Grading rubrics, reference answers, and instructor guidance for all worksheets and activities
-* Exciting semi-autograded projects, with human grading rubrics and milestones
+* Exciting mostly-autograded projects, with human grading rubrics and milestones
 * Exams, that we in no way claim are good assessments and will probably not share with you :)
 * [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
 
@@ -16,4 +16,6 @@ The Bakery is built on a few different technologies, including:
 * [CORGIS](http://think.cs.vt.edu/corgis), a collection of really great and interesting dataSets
 * Runtime Case Builder, a web-based tool that let's you visualize the estimated run time of algorithms
 
-With the exception of our exams, everything we have created is free and open-source.
+With the exception of our exams and lesson plans, everything we have created is open-source. We plan to have everything available at some level to teachers. However, we are still exploring ways to release our curriculum in ways that will not damage its instructional validity.
+
+If you are interested in learning more about this project, please reach out to [acbart@udel.edu](mailto:acbart@udel.edu) to learn more about the Python Bakery!
