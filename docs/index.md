@@ -2,18 +2,18 @@ Hello, and welcome to the organizational page for the CS1 Python Bakery curricul
 
 To get full access to all the **instructor-facing materials**, please fill out this form: [https://forms.gle/ZNjmHNhybhWtpq83A](https://forms.gle/ZNjmHNhybhWtpq83A)
 
-To see the VSCodeEdu version of this course (edited and improved by Microsoft), check out [vscodeedu.com](https://vscodeedu.com/courses/intro-to-python). This is a free course that comes integrated with a web-based version of VS Code!
+To see the **VSCodeEdu** version of this course (edited and improved by Microsoft), check out [vscodeedu.com](https://vscodeedu.com/courses/intro-to-python). This is a free course that comes integrated with a web-based version of VS Code!
 
 Our resources include:
-* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
-* A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A))
-* [8 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including transcribed videos, interactive code examples, self-checking quizzes, and autograded programming problems
-* 10+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans
-* Grading rubrics, reference answers, and instructor guidance for all worksheets and activities (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A))
-* Exciting mostly-autograded projects, with human grading rubrics and milestones (including [web development with Drafter](https://drafter-edu.github.io/drafter/) and game development with [Designer](https://designer-edu.github.io/))
-* Exams, that we in no way claim are good assessments and will probably not share with you :)
-* [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
+* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
+* A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
+* [8 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including captioned videos, graphical transcriptions, interactive code examples, self-checking quizzes, and autograded programming problems.
+* 10+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans.
+* Grading rubrics, reference answers, and instructor guidance for all worksheets and activities (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
+* Exciting mostly-autograded projects, with human grading rubrics and milestones (including [web development with Drafter](https://drafter-edu.github.io/drafter/) and game development with [Designer](https://designer-edu.github.io/)).
+* ~~Exams~~ (we're keeping those secret for now :)
 * Tools for [converting Markdown into PowerPoint/Videos](https://github.com/python-bakery/bake-mark) and [creating narration for those videos](https://github.com/python-bakery/bake-dubs)
+* [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
 
 The Bakery is built on a few different technologies, including:
 * [Pedal](https://github.com/acbart/pedal/), a Python autograding framework
