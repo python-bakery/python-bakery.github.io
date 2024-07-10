@@ -2,6 +2,8 @@ Hello, and welcome to the organizational page for the CS1 Python Bakery curricul
 
 To get full access to all the **instructor-facing materials**, please fill out this form: [https://forms.gle/ZNjmHNhybhWtpq83A](https://forms.gle/ZNjmHNhybhWtpq83A)
 
+To see the VSCodeEdu version of this course (edited and improved by Microsoft), check out [vscodeedu.com](https://vscodeedu.com/courses/intro-to-python). This is a free course that comes integrated with a web-based version of VS Code!
+
 Our resources include:
 * 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
 * A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A))
