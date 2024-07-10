@@ -11,6 +11,7 @@ Our resources include:
 * Exciting mostly-autograded projects, with human grading rubrics and milestones (including [web development with Drafter](https://drafter-edu.github.io/drafter/) and game development with [Designer](https://designer-edu.github.io/))
 * Exams, that we in no way claim are good assessments and will probably not share with you :)
 * [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
+* Tools for [converting Markdown into PowerPoint/Videos](https://github.com/python-bakery/bake-mark) and [creating narration for those videos](https://github.com/python-bakery/bake-dubs)
 
 The Bakery is built on a few different technologies, including:
 * [Pedal](https://github.com/acbart/pedal/), a Python autograding framework
