@@ -3,7 +3,7 @@ Hello, and welcome to the organizational page for the CS1 Python Bakery curricul
 To get full access to all the **instructor-facing materials**, please fill out this form: [https://forms.gle/ZNjmHNhybhWtpq83A](https://forms.gle/ZNjmHNhybhWtpq83A)
 
 Our resources include:
-* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template ([public version](https://canvas.instructure.com/enroll/JGNNMH), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
+* 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course template ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
 * A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A))
 * [8 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including transcribed videos, interactive code examples, self-checking quizzes, and autograded programming problems
 * 10+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans
@@ -20,10 +20,15 @@ The Bakery is built on a few different technologies, including:
 
 With the exception of our exams and lesson plans, everything we have created is open-source. We plan to have everything available at some level to teachers. However, we are still exploring ways to release our curriculum in ways that will not damage its instructional validity.
 
-If you are interested in learning more about this project, please reach out to [acbart@udel.edu](mailto:acbart@udel.edu) to learn more about the Python Bakery!
+If you are interested in learning more about this project, you can also fill out the [access form](https://forms.gle/ZNjmHNhybhWtpq83A); there is a place for questions. If you don't trust google forms, then you can always email [acbart@udel.edu](mailto:acbart@udel.edu) to learn more about the Python Bakery (warning: Dr. Bart does not promise his inbox is under control).
 
 # Frequently Asked Questions
 
 **What license is this curriculum under?**\
 We went with the [GNU General Public License v3.0](https://github.com/python-bakery/bakery-curriculum/blob/main/LICENSE), with the goal of being reasonably permissive and beneficial to the community, while protecting ourselves.
 
+**When was this page last updated?**\
+I last updated this page for ITiCSE'24, including new links to:
+* The latest public Canvas course
+* A form to allow instructors to sign up for the full curricular resources
+* The information about the license
