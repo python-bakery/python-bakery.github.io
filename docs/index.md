@@ -1,6 +1,6 @@
 Hello, and welcome to the organizational page for the CS1 Python Bakery curriculum! The Bakery is an evolution of the original ideas we presented in the [Python Sneks project](https://acbart.github.io/python-sneks/). Our goal is to surpass our predecessor and make a truly instructor-friendly Python CS1 course that can be quickly deployed while still effectively teaching students.
 
-To get full access to all the **instructor-facing materials**, please fill out this form: [https://forms.gle/ZNjmHNhybhWtpq83A](https://forms.gle/ZNjmHNhybhWtpq83A)
+You might be interested in seeing our [ITiCSE'26 paper](https://dl.acm.org/doi/pdf/10.1145/3649217.3653630) about the course.
 
 To see the **VSCodeEdu** version of this course (edited and improved by Microsoft), check out [vscodeedu.com](https://vscodeedu.com/courses/intro-to-python). This is a free course that comes integrated with a web-based version of VS Code!
 
@@ -35,3 +35,6 @@ I last updated this page for ITiCSE'24, including new links to:
 * The latest public Canvas course
 * A form to allow instructors to sign up for the full curricular resources
 * The information about the license
+
+**Okay, how do I get the full instructor materials?**\
+To get full access to all the instructor-facing materials, please fill out this form: [https://forms.gle/ZNjmHNhybhWtpq83A](https://forms.gle/ZNjmHNhybhWtpq83A)
