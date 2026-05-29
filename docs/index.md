@@ -7,8 +7,8 @@ To see the **VSCodeEdu** version of this course (edited and improved by Microsof
 Our resources include:
 * 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
 * A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
-* [8 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including captioned videos, graphical transcriptions, interactive code examples, self-checking quizzes, and autograded programming problems.
-* 10+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans.
+* [12 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including captioned videos, graphical transcriptions, interactive code examples, self-checking quizzes, and autograded programming problems.
+* 12+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans.
 * Grading rubrics, reference answers, and instructor guidance for all worksheets and activities (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
 * Exciting mostly-autograded projects, with human grading rubrics and milestones (including [web development with Drafter](https://drafter-edu.github.io/drafter/) and game development with [Designer](https://designer-edu.github.io/)).
 * ~~Exams~~ (we're keeping those secret for now :)
