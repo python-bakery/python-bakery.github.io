@@ -1,6 +1,6 @@
 Hello, and welcome to the organizational page for the CS1 Python Bakery curriculum! The Bakery is an evolution of the original ideas we presented in the [Python Sneks project](https://acbart.github.io/python-sneks/). Our goal is to surpass our predecessor and make a truly instructor-friendly Python CS1 course that can be quickly deployed while still effectively teaching students.
 
-You might be interested in seeing our [ITiCSE'26 paper](https://dl.acm.org/doi/pdf/10.1145/3649217.3653630) about the course.
+To learn more details about the curriculum, we recommend starting with the [instructor guide](instructor.md). You might also be interested in seeing our [ITiCSE'26 paper](https://dl.acm.org/doi/pdf/10.1145/3649217.3653630) about the course.
 
 To see the **VSCodeEdu** version of this course (edited and improved by Microsoft), check out [vscodeedu.com](https://vscodeedu.com/courses/intro-to-python). This is a free course that comes integrated with a web-based version of VS Code!
 
