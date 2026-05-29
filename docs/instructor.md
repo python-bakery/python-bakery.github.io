@@ -89,7 +89,7 @@ All of the textbook is autograded and attempts to give feedback. We discuss this
 
 The diagram below captures all of the topics that we aim to cover, and roughly their order. We place the topics loosely on the spectrum from Data (Abstraction) to Algorithms.
 
-<img alt="Overview Diagram of the Bakery curriculum topics" src="https://github.com/user-attachments/assets/ee6c30fb-ece8-4a9e-bb94-313ff83e9959" />
+<a href='https://github.com/user-attachments/assets/ee6c30fb-ece8-4a9e-bb94-313ff83e9959' target=_blank><img alt="Overview Diagram of the Bakery curriculum topics" src="https://github.com/user-attachments/assets/ee6c30fb-ece8-4a9e-bb94-313ff83e9959" /></a>
 
 
 *   Chapter 1 (Introduction): Covers the basics of Computer Science and programming. This appears to be one of the longest chapters, but is actually one of the easiest and shortest. There is a lot of ground to cover, but the pace is very gentle.
