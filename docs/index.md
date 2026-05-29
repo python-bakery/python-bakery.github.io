@@ -17,7 +17,7 @@ Our resources include:
 * [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
 
 The Bakery is built on a few different technologies, including:
-* [Pedal]([https://github.com/acbart/pedal/](https://pedal-edu.github.io/pedal/)), a Python autograding framework
+* [Pedal](https://pedal-edu.github.io/pedal/), a Python autograding framework
 * [BlockPy](https://blockpy.cis.udel.edu/), a dual block/text coding environment with tons of other nifty features
 * [CORGIS](https://corgis-edu.github.io/corgis/), a collection of really great and interesting dataSets
 * [Drafter](https://drafter-edu.github.io/drafter/), a Python library for creating front-end web applications that can be deployed easily on Github Pages.
