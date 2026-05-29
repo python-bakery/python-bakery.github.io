@@ -10,7 +10,7 @@ Our resources include:
 * [12 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including captioned videos, graphical transcriptions, interactive code examples, self-checking quizzes, and autograded programming problems.
 * 12+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans.
 * Grading rubrics, reference answers, and instructor guidance for all worksheets and activities (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
-* Exciting mostly-autograded projects, with human grading rubrics and milestones (including [web development with Drafter](https://drafter-edu.github.io/drafter/) and game development with [Designer](https://designer-edu.github.io/)).
+* Exciting mostly-autograded projects, with human grading rubrics and milestones.
 * ~~Exams~~ (we're keeping those secret for now :)
 * Tools for [converting Markdown into PowerPoint/Videos](https://github.com/python-bakery/bake-mark) and [creating narration for those videos](https://github.com/python-bakery/bake-dubs)
 * [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
@@ -19,6 +19,7 @@ The Bakery is built on a few different technologies, including:
 * [Pedal](https://github.com/acbart/pedal/), a Python autograding framework
 * [BlockPy](https://blockpy.cis.udel.edu/blockpy/load), a dual block/text coding environment with tons of other nifty features
 * [CORGIS](http://think.cs.vt.edu/corgis), a collection of really great and interesting dataSets
+* [Drafter](https://drafter-edu.github.io/drafter/), a Python library for creating front-end web applications that can be deployed easily on Github Pages.
 * [Runtime Case Builder](https://acbart.github.io/runtime-case-builder/?preload=RCB_find_with_break_dynamic.json), a web-based tool that let's you visualize the estimated run time of algorithms
 
 With the exception of our exams and lesson plans, everything we have created is open-source. We plan to have everything available at some level to teachers. However, we are still exploring ways to release our curriculum in ways that will not damage its instructional validity.
