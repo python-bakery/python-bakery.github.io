@@ -8,6 +8,7 @@ Our resources include:
 * 15 weeks of content, broken up into digestible pieces, all ready in a Canvas course ([public version](https://canvas.instructure.com/enroll/WAFD8D), [github repository](https://github.com/python-bakery/bakery-curriculum-public)).
 * A parallel Canvas course for training and managing Teaching Assistants and the rest of the course staff (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
 * [12 chapters of interactive textbook material](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook) including captioned videos, graphical transcriptions, interactive code examples, self-checking quizzes, and autograded programming problems.
+  * [Example of Chapter 1A's content](https://blockpy.cis.udel.edu/assignments/load?assignment_group_url=bakery_intro_a)
 * 12+ weeks of lecture and lab content, including instructor slides, worksheets, and lesson plans.
 * Grading rubrics, reference answers, and instructor guidance for all worksheets and activities (*instructors only, [fill out the form](https://forms.gle/ZNjmHNhybhWtpq83A)).
 * Exciting mostly-autograded projects, with human grading rubrics and milestones.
@@ -16,9 +17,9 @@ Our resources include:
 * [Indexing cats](https://acbart.github.io/index-the-cat/alpha/)!
 
 The Bakery is built on a few different technologies, including:
-* [Pedal](https://github.com/acbart/pedal/), a Python autograding framework
-* [BlockPy](https://blockpy.cis.udel.edu/blockpy/load), a dual block/text coding environment with tons of other nifty features
-* [CORGIS](http://think.cs.vt.edu/corgis), a collection of really great and interesting dataSets
+* [Pedal]([https://github.com/acbart/pedal/](https://pedal-edu.github.io/pedal/)), a Python autograding framework
+* [BlockPy](https://blockpy.cis.udel.edu/), a dual block/text coding environment with tons of other nifty features
+* [CORGIS](https://corgis-edu.github.io/corgis/), a collection of really great and interesting dataSets
 * [Drafter](https://drafter-edu.github.io/drafter/), a Python library for creating front-end web applications that can be deployed easily on Github Pages.
 * [Runtime Case Builder](https://acbart.github.io/runtime-case-builder/?preload=RCB_find_with_break_dynamic.json), a web-based tool that let's you visualize the estimated run time of algorithms
 
